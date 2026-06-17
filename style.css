@@ -172,6 +172,18 @@ button{
     box-shadow:0 10px 20px rgba(0,0,0,0.15);
 }
 
+.email-link{
+    color:#b50d67a9;
+    text-decoration:none;
+    font-weight:500;
+    transition:0.3s;
+}
+
+.email-link:hover{
+    color:#b50d67a9;
+    text-decoration:underline;
+}
+
 @keyframes fadeIn{
 
     from{
